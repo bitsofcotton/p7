@@ -2,5 +2,5 @@
 Optimize input as fourier-wavelet with a.e. part and discrete part then apply them into original.
 
 # Description
-Please refer lieonn.hh tail (01) case.
+Please refer lieonn.hh tail (03) case.
 
